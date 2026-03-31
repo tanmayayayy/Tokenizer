@@ -3,7 +3,7 @@ from nltk.tokenize import word_tokenize
 
 
 
-try: #because you don't want to download again and again :)
+try: #because you don't want to download it again and again :)
     nltk.data.find('tokenizers/punkt')  
 except LookupError:
     nltk.download('punkt')
