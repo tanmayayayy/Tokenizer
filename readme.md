@@ -128,8 +128,3 @@ This ensures smooth execution without manual setup.
   * Sentiment analysis
   * Text classification
 
----
-
-## 📄 License
-
-This project is open-source and available under the MIT License.
